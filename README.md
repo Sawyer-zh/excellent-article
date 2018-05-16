@@ -22,6 +22,10 @@
 
 10、[ Linux内核中双向链表的实现基础](https://mp.weixin.qq.com/s?__biz=MzIwNTc4NTEwOQ==&mid=2247484096&idx=1&sn=b22fd4c66d039b674400dc21730bc19c&chksm=972ad3baa05d5aac508619101c3dd2932ab90e39fc665980a82c9b30e69b92c1779cf306b36e&scene=38#wechat_redirect)
 
+11、[Linux 系统内核空间与用户空间通信的实现与分析](https://www.ibm.com/developerworks/cn/linux/l-netlink/index.html)
+
+12、[netlink简单实例 ](https://blog.csdn.net/balance156/article/details/15372831)
+
 ## 数据结构与算法
 
 1、[希尔排序](https://mp.weixin.qq.com/s?__biz=MzIwNTc4NTEwOQ==&mid=2247485154&idx=1&sn=f7a7e5e35585bb9e3e4260cd558ad02c&chksm=972ad798a05d5e8e79489ae4402f4eb8c09b9c1f3c6ec8127f9bd214a00367119eff5119832f&scene=38#wechat_redirect)
@@ -43,6 +47,8 @@
 3、[你所不知道的TIME_WAIT（下）](https://mp.weixin.qq.com/s?__biz=MzIwNTc4NTEwOQ==&mid=2247485070&idx=1&sn=f6c3d063ac45e019d043b06d2b404404&chksm=972ad7f4a05d5ee2142fa51b066f9144bb9cb5b572de7c11c4af3b4f37e141952f222ffdd707&scene=38#wechat_redirect)
 
 4、[TCP三次握手和SYN攻击](https://mp.weixin.qq.com/s?__biz=MzIwNTc4NTEwOQ==&mid=2247484888&idx=1&sn=aaf4f7f4a0b37c8f823e2665d711dd72&chksm=972ad4a2a05d5db4e7b7d7835371b10305c864586f877116ed23b351a2b18dc74842ded7afac&scene=38#wechat_redirect)
+
+5、[Linux 内核网络协议栈 ------sk_buff 结构体 以及 完全解释 （2.6.16）](https://blog.csdn.net/shanshanpt/article/details/21024465)
 
 ## C++
 
