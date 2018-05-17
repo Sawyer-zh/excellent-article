@@ -50,6 +50,16 @@
 
 5、[Linux 内核网络协议栈 ------sk_buff 结构体 以及 完全解释 （2.6.16）](https://blog.csdn.net/shanshanpt/article/details/21024465)
 
+6、[2.6.30内核Netfilter的简单例子、四（filterIp）](https://blog.csdn.net/sahusoft/article/details/4544030)
+
+7、[modifying ip headers with netfilter](https://kel.bz/post/netfilter/)
+
+8、[Hacking the Linux Kernel Network Stack](http://phrack.org/issues/61/13.html)
+
+9、[Understanding And Programming With Netlink Sockets ](https://people.redhat.com/nhorman/papers/netlink.pdf)
+
+10、[Netlink 基于事件的信号机制](http://onestraw.github.io/linux/netlink-event-signal/)
+
 ## C++
 
 1、[C++对象模型之内存布局（1）](https://mp.weixin.qq.com/s?__biz=MzIwNTc4NTEwOQ==&mid=2247484155&idx=1&sn=3f47f496c8453412f7b51d5b4dbe77e8&chksm=972ad381a05d5a976e598ac2afc5187478478149627fa143c42ce3ba63ed55ff4c15d8f0aa92&scene=38#wechat_redirect)
